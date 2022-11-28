@@ -1,6 +1,6 @@
 # flutter_widget
 
-Rofiqoh Wahyuningtys
+Rofiqoh Wahyuningtyas
 
 ## basic_widget
 
